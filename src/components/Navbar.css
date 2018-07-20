@@ -1,0 +1,11 @@
+.link {
+    background-color: "#221F1F";
+    color: "#fff";
+    vertical-align: baseline;
+}
+
+.link:hover {
+    background-color: "#221F1F";
+    color: "#564d4d";
+    vertical-align: baseline;
+}
